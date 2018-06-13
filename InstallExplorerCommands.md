@@ -45,7 +45,7 @@ exit
 ```
 Install Explorer
 ```
-git clone https://github.com/ipsum-network/ips-explorer
+git clone https://github.com/ipsum-network/ips-explorer explorer
 ```
 ```
 cd explorer && npm install --production
