@@ -72,7 +72,7 @@ masternodeprivkey=<masternode private key>
 
 * From the terminal session, run the following commands
 ```
-./ips-3.1.0/bin/ipsd
+watch ./ips-3.1.0/bin/ipsd
 ```
 
 ## Wait for the IPSUM Linux Daemon to sync
